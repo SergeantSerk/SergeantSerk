@@ -88,8 +88,6 @@
 
 ### Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"/>
