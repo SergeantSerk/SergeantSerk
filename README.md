@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
 
 ## Frameworks
@@ -28,9 +29,10 @@
 <p>
 <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white"/>
 </p>
 
-## Services
+## Services and Tools
 <p>
 <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cockpit-0066CC.svg?style=for-the-badge&logo=Cockpit&logoColor=white"/>
@@ -43,6 +45,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WireGuard-88171A.svg?style=for-the-badge&logo=WireGuard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"/>
 </p>
 
 ## IDEs
@@ -50,6 +57,8 @@
 <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
 </p>
 
 ## Software Development Utilities
@@ -77,6 +86,7 @@
 <img src="https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD.svg?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-1BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white"/>
 </p>
 
 ## Operating Systems
@@ -87,6 +97,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tails-56347C.svg?style=for-the-badge&logo=Tails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
 ## Cloud
@@ -95,12 +107,14 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"/>
 </p>
 
 ## Training
 <p>
 <img src="https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
 </p>
 
 ## Interests
@@ -109,4 +123,5 @@
 <img src="https://img.shields.io/badge/F1-E10600.svg?style=for-the-badge&logo=F1&logoColor=white"/>
 <img src="https://img.shields.io/badge/KFC-F40027.svg?style=for-the-badge&logo=KFC&logoColor=white"/>
   <img src="https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=for-the-badge&logo=Valorant&logoColor=white"/>
 </p>
