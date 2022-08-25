@@ -1,6 +1,6 @@
-# Heyo! 👋 I'm Serkan and here are my technologies.
+## Heyo! 👋 I'm Serkan. Come check out what I work with :)
 
-## Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
@@ -16,22 +16,16 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
 
-## Frameworks
+### Frameworks
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=Blazor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-</p>
-
-## Libraries
-<p>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white"/>
 </p>
 
-## Services
+### Services
 <p>
   <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cockpit-0066CC.svg?style=for-the-badge&logo=Cockpit&logoColor=white"/>
@@ -46,7 +40,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/>
 </p>
 
-## Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
@@ -55,7 +49,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"/>
 </p>
 
-## IDEs
+### IDEs
 <p>
   <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white"/>
@@ -64,7 +58,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
 </p>
 
-## Software Development Utilities
+### Software Development Utilities
 <p>
   <img src="https://img.shields.io/badge/AppVeyor-00B3E0.svg?style=for-the-badge&logo=AppVeyor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codacy-222F29.svg?style=for-the-badge&logo=Codacy&logoColor=white"/>
@@ -74,7 +68,7 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
 </p>
 
-## Package Repos
+### Package Repos
 <p>
   <img src="https://img.shields.io/badge/Artifact%20Hub-417598.svg?style=for-the-badge&logo=Artifact-Hub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white"/>
@@ -84,7 +78,7 @@
   <img src="https://img.shields.io/badge/Snapcraft-82BEA0.svg?style=for-the-badge&logo=Snapcraft&logoColor=white"/>
 </p>
 
-## CLI
+### CLI
 <p>
   <img src="https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white"/>
@@ -92,7 +86,7 @@
   <img src="https://img.shields.io/badge/tmux-1BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white"/>
 </p>
 
-## Operating Systems
+### Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white"/>
@@ -104,7 +98,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
-## Cloud
+### Cloud
 <p>
   <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
@@ -113,14 +107,14 @@
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"/>
 </p>
 
-## Training
+### Training
 <p>
   <img src="https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
 </p>
 
-## Interests
+### Interests
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/F1-E10600.svg?style=for-the-badge&logo=F1&logoColor=white"/>
