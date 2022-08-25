@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MicroPython-2B2728.svg?style=for-the-badge&logo=MicroPython&logoColor=white"/>
+  <img src="https://img.shields.io/badge/p5.js-ED225D.svg?style=for-the-badge&logo=p5dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/>
 </p>
 
 ## Frameworks
@@ -57,6 +59,7 @@
 <img src="https://img.shields.io/badge/Artifact%20Hub-417598.svg?style=for-the-badge&logo=Artifact-Hub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NuGet-004880.svg?style=for-the-badge&logo=NuGet&logoColor=white"/>
 </p>
 
 ## CLI
@@ -72,7 +75,13 @@
 <img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"/>
 </p>
+
+## Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white"/>
+  </p>
 
 ## Cloud
 <p>
@@ -89,6 +98,8 @@
 
 ## Interests
 <p>
+  <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/F1-E10600.svg?style=for-the-badge&logo=F1&logoColor=white"/>
 <img src="https://img.shields.io/badge/KFC-F40027.svg?style=for-the-badge&logo=KFC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white"/>
 </p>
