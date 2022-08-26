@@ -68,28 +68,9 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
 </p>
 
-### Package Repos
-<p>
-  <img src="https://img.shields.io/badge/Artifact%20Hub-417598.svg?style=for-the-badge&logo=Artifact-Hub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NuGet-004880.svg?style=for-the-badge&logo=NuGet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snapcraft-82BEA0.svg?style=for-the-badge&logo=Snapcraft&logoColor=white"/>
-</p>
-
-### CLI
-<p>
-  <img src="https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD.svg?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tmux-1BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white"/>
-</p>
-
 ### Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tails-56347C.svg?style=for-the-badge&logo=Tails&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
